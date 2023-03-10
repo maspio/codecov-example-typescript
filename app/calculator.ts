@@ -18,3 +18,6 @@ export function divide(x: number, y: number): number | string {
 }
 
 export function test() {}
+
+
+export function test2() {}
